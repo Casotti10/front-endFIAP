@@ -1,0 +1,131 @@
+/* Geral */
+body {
+  background-color: #D0E8FF; /* azul claro para fundo */
+  font-family: helvetica, sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: #3B6FD1; /* azul escuro */
+  color: #fff;
+}
+
+.bi-house {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+.bi-plus-circle {
+  font-size: 4rem;
+  color: #82B0FF; /* azul médio claro */
+}
+
+.bi-three-dots {
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+/* Dashboard */
+.texto-externo {
+  color: #3B6FD1;
+  padding-top: 15px;
+  margin-bottom: 5px;
+}
+
+.categoria {
+  text-align: justify;
+  padding-top: 15px;
+}
+
+.titulo-home {
+  color: #3B6FD1;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.bi-person-square {
+  font-size: 2rem;
+  color: #3B6FD1;
+}
+
+.bi-arrow-up-circle {
+  color: #4CAF50; /* verde para positivo */
+  font-size: 2rem;
+  float: left;
+}
+
+.saldo {
+  font-size: 0.8rem;
+}
+
+.saldoR {
+  font-size: 0.8rem;
+  color: #4CAF50;
+  font-weight: bold;
+  margin-top: -18px;
+}
+
+.bi-arrow-down-circle {
+  color: #DE0000; /* vermelho para negativo */
+  font-size: 2rem;
+  float: left;
+}
+
+.saldoD {
+  font-size: 0.8rem;
+  color: #DE0000;
+  font-weight: bold;
+  margin-top: -18px;
+}
+
+.bi-pie-chart-fill {
+  color: #FFC107; /* amarelo para destaque */
+  font-size: 6rem;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Adicionar despesas */
+.body-despesa {
+  background-color: #D0E8FF; /* mesmo azul do fundo */
+  color: #3B6FD1;
+  margin-top: 15px;
+}
+
+.container-btn {
+  text-align: center;
+}
+
+.btn-despesa {
+  background-color: #021fae;
+  border-radius: 10px;
+  border-color: #dddddd;
+  color: #fff;
+  padding: 0 0.8rem;
+}
+
+.form-btn {
+  text-align: center;
+}
+
+.container-form {
+  color: #020202;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #D0E8FF; /* mesmo azul do fundo */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.btn-salvar-1 {
+  background-color: #021fae;
+  border-radius: 10px;
+  border-color: #F44336;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0 0.8rem;
+}
